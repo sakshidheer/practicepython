@@ -1,0 +1,5 @@
+Bulbasaur = Bulbasaur -> Ivysaur -> Venusaur
+Spearow = Spearow -> Fearow
+Ekans = Ekans -> Arbok
+Pidgey = Pedgey -> Pidgeotto -> Pidgeot
+Pikachu = Pichu -> Pikachu -> Raichu

@@ -1,0 +1,5 @@
+1 = Bulbasaur
+2 = Spearow
+3 = Ekans
+4 = Pidgey
+5 = Pikachu

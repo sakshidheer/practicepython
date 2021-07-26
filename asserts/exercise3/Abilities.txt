@@ -1,0 +1,5 @@
+Bulbasaur = Overgrow
+Fearow = Flying
+Ekans = Intimidate, Shed Skin
+Pidgey = Keen Eye, Tangled Feet
+Pikachu = Static

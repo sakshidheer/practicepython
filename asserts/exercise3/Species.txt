@@ -1,0 +1,5 @@
+Bulbasaur = Seed Pokémon
+Spearow = Tiny Bird Pokémon
+Ekans = Snake Pokémon
+Pidgey = Tiny Bird Pokémon
+Pikachu = Mouse Pokémon
