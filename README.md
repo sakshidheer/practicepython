@@ -10,7 +10,7 @@ I have recently started learning python so started this repository with the prac
 
 [Exercise 4](./Exercise4.py): Convert minutes to second :heavy_check_mark:
 
-[Exercise 5](./Exercise5.py): Find if num prime numbers
+[Exercise 5](./Exercise5.py): Find if num prime numbers :heavy_check_mark:
 
 Exercise 6 : Find if the number or string is palindrome
 
