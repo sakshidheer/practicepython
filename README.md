@@ -2,13 +2,13 @@
 
 I have recently started learning python so started this repository with the practice exercises I do daily(almost) to get better at python
 
-[Exercise 1](./Exercise1.py): Print multiply table [Link to Google](https://www.google.com)
+[Exercise 1](./Exercise1.py): Print multiply table :heavy_check_mark:
 
-Exercise 2: Print Fibonacci series
+[Exercise 2](./Exercise2.py): Print Fibonacci series :heavy_check_mark:
 
-Exercise 3: Get user name, pokemon name from the user and read species, ability and evolution chart from the local files and create a file with username contains pokemon info .
+[Exercise 3](./Exercise3.py): Get user name, pokemon name from the user and read species, ability and evolution chart from the local files and create a file with username contains pokemon info :heavy_check_mark:
 
-Exercice 4: Convert minutes to second
+[Exercise 4](./Exercise4.py): Convert minutes to second :heavy_check_mark:
 
 Exercise 5: Get first n prime numbers
 
