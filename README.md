@@ -16,9 +16,9 @@ Exercise 6 : Find if the number or string is palindrome
 
 Exercise 7: Find factorial of a number 
 
-Exercise8: Find sum of first n numbers
+[Exercise 8](./Exercise9.py): Find sum of first n numbers
 
-Exercise 9 : Find if number is odd or even
+[Exercise 9](./Exercise9.py) : Find if number is odd or even
 
 Exercise 10: find Largest number in the array
 
