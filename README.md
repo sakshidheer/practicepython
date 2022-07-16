@@ -20,7 +20,7 @@ Exercise 7: Find factorial of a number
 
 [Exercise 9](./Exercise9.py) : Find if number is odd or even
 
-Exercise 10: find Largest number in the array
+[Exercise 10](./Exercise10.py): find Largest number in the array
 
 
 
