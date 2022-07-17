@@ -22,5 +22,26 @@ Exercise 7: Find factorial of a number
 
 [Exercise 10](./Exercise10.py): find Largest number in the array
 
+Exercise 11: Get number of permutation and computation for the inputted number
 
+Exercise 12: Create a file with user data inputted by user
 
+Exercise 13: Print reverse of the string
+
+Exercise 14: Print a triangle pattern
+
+Exercise 15: Print alphabets A to Z pattern
+
+Exercise 16: Print the pyramid pattern
+
+Exercise 17: Find if the array is Mirror Inverse or not
+
+Exercise 18: Find if the alphabet is vowel or constant
+
+Exercise 19 : Find square root of a number
+
+Exercise 20: Print prime numbers between two numbers
+
+Exercise 21: Find if the given number id armstrong number or not
+
+Exercise 22: Find the first n armstrong number
