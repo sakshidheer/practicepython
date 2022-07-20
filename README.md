@@ -26,7 +26,7 @@ Exercise 11: Get number of permutation and computation for the inputted number
 
 Exercise 12: Create a file with user data inputted by user
 
-Exercise 13: Print reverse of the string
+[Exercise 13](./Exercise13.py): Print reverse of the string
 
 Exercise 14: Print a triangle pattern
 
