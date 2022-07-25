@@ -24,7 +24,14 @@ Exercise 7: Find factorial of a number
 
 Exercise 11: Get number of permutation and computation for the inputted number
 
-Exercise 12: Create a file with user data inputted by user
+Exercise 12: Create a program that takes following student information :
+
+1. Name
+2. Age
+3. Gender
+4. Class
+
+Update the above in the file named "students.csv"
 
 [Exercise 13](./Exercise13.py): Print reverse of the string
 
