@@ -3,3 +3,6 @@
 # dependencies
 /node_modules
 /.idea/*
+/tests/__pycache__/*
+__pycache__/*
+exercises/__pycache__/*
