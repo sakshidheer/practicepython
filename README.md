@@ -52,3 +52,5 @@ Exercise 20: Print prime numbers between two numbers
 Exercise 21: Find if the given number id armstrong number or not
 
 Exercise 22: Find the first n armstrong number
+
+[Exercise 23](./exercises/TwentyTwo.py): Is String uppercase?
