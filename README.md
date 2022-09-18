@@ -49,7 +49,7 @@ Exercise 19 : Find square root of a number
 
 Exercise 20: Print prime numbers between two numbers
 
-Exercise 21: Find if the given number id armstrong number or not
+Exercise 21: Find if the given number is armstrong number or not
 
 Exercise 22: Find the first n armstrong number
 
