@@ -19,7 +19,6 @@ def printAndAddInfoToFile(pokemon_name, name):
     print(abilities)
     print(evolutionChart)
     print(species)
-
     with open("{}.txt".format(name),"a+") as userfile:
         userfile.write("{} details:\n ".format(pokemon_name))
         userfile.write("Abilities: {}\n".format(abilities))

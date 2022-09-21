@@ -17,3 +17,4 @@ for i in range(0,num):
 
 with open("students.csv","a") as file:
     file.write("\n".join(str(student) for student in students))
+    

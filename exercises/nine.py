@@ -1,4 +1,4 @@
-def findIfNumOdd(num):
+def find_if_num_odd(num):
     num = int(input)
     remainder =  num % 2 ==0
     if remainder:
@@ -8,6 +8,6 @@ def findIfNumOdd(num):
 
 input = input("Please enter the number : ")
 
-findIfNumOdd(input)
+find_if_num_odd(input)
 
 

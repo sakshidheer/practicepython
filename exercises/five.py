@@ -13,7 +13,7 @@ def is_prime_number(num):
 if __name__ == '__main__':
     input = input("Enter the number : ")
     num = int(input)
-    result = isPrimeNumber(num)
+    result = is_prime_number(num)
     if result == True:
         print("The entered number {} is prime")
     else:

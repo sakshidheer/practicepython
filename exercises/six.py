@@ -7,3 +7,4 @@ if inputString == reversedString:
 else:
     print("The string is not palindrome")
 
+

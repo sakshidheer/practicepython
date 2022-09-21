@@ -1,4 +1,4 @@
-def printFibonacci(num):
+def print_fibonacci(num):
     first=0
     second=1
     fibonacciList =[0,1]
@@ -7,4 +7,4 @@ def printFibonacci(num):
         fibonacciList.append(sum)
     print(*fibonacciList, sep = "\n")
 
-printFibonacci(13)
+print_fibonacci(13)
