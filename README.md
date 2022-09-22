@@ -43,7 +43,7 @@ Exercise 16: Print the pyramid pattern
 
 Exercise 17: Find if the array is Mirror Inverse or not
 
-Exercise 18: Find if the alphabet is vowel or constant
+[Exercise 18](./exercises/eighteen.py): Find if the alphabet is vowel or constant
 
 Exercise 19 : Find square root of a number
 
