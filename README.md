@@ -14,7 +14,7 @@ I have recently started learning python so started this repository with the prac
 
 [Exercise 6](./exercises/six.py): Find if the number or string is palindrome :heavy_check_mark:
 
-Exercise 7: Find factorial of a number 
+[Exercise 7](./exercises/seven.py): Find factorial of a number :heavy_check_mark:
 
 [Exercise 8](./exercises/eigth.py): Find sum of first n numbers :heavy_check_mark:
 
@@ -54,3 +54,11 @@ Exercise 20: Print prime numbers between two numbers
 [Exercise 22](./exercises/twenty_three.py):Find the first n armstrong number :heavy_check_mark:
 
 [Exercise 23](./exercises/twenty_three.py): Is String uppercase? :heavy_check_mark:
+
+Exercise 24: Get day of the week by date
+
+Exercide 25: Get sum of first n natural numbers
+
+Exercise 26 : Get the min and max repeated character in the string
+
+Exercise 27: Return a series of first n numbers but has 'Fizz' for multiples of three and 'Buzz' for the multiples of five
