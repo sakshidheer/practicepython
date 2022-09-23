@@ -12,15 +12,15 @@ I have recently started learning python so started this repository with the prac
 
 [Exercise 5](./exercises/five.py): Find if num prime numbers :heavy_check_mark:
 
-[Exercise 6](./exercises/six.py): Find if the number or string is palindrome
+[Exercise 6](./exercises/six.py): Find if the number or string is palindrome :heavy_check_mark:
 
 Exercise 7: Find factorial of a number 
 
-[Exercise 8](./exercises/eigth.py): Find sum of first n numbers
+[Exercise 8](./exercises/eigth.py): Find sum of first n numbers :heavy_check_mark:
 
-[Exercise 9](./exercises/nine.py) : Find if number is odd or even
+[Exercise 9](./exercises/nine.py) : Find if number is odd or even :heavy_check_mark:
 
-[Exercise 10](./exercises/ten.py): find Largest number in the array
+[Exercise 10](./exercises/ten.py): find Largest number in the array :heavy_check_mark:
 
 Exercise 11: Get number of permutation and computation for the inputted number
 
@@ -33,7 +33,7 @@ Exercise 12: Create a program that takes following student information :
 
 Update the above in the file named "students.csv"
 
-[Exercise 13](./exercises/thirteen.py): Print reverse of the string
+[Exercise 13](./exercises/thirteen.py): Print reverse of the string :heavy_check_mark:
 
 Exercise 14: Print a triangle pattern
 
@@ -43,14 +43,14 @@ Exercise 16: Print the pyramid pattern
 
 Exercise 17: Find if the array is Mirror Inverse or not
 
-[Exercise 18](./exercises/eighteen.py): Find if the alphabet is vowel or constant
+[Exercise 18](./exercises/eighteen.py): Find if the alphabet is vowel or constant :heavy_check_mark:
 
-Exercise 19 : Find square root of a number
+Exercise 19 : Find square root of a number 
 
 Exercise 20: Print prime numbers between two numbers
 
-[Exercise 21](./exercises/twenty_two.py): Find if the given number is armstrong number or not 
+[Exercise 21](./exercises/twenty_two.py): Find if the given number is armstrong number or not :heavy_check_mark:
 
-[Exercise 22](./exercises/twenty_three.py):Find the first n armstrong number
+[Exercise 22](./exercises/twenty_three.py):Find the first n armstrong number :heavy_check_mark:
 
-[Exercise 23](./exercises/twenty_three.py): Is String uppercase?
+[Exercise 23](./exercises/twenty_three.py): Is String uppercase? :heavy_check_mark:
