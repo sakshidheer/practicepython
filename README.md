@@ -16,7 +16,7 @@ I have recently started learning python so started this repository with the prac
 
 [Exercise 7](./exercises/seven.py): Find factorial of a number :heavy_check_mark:
 
-[Exercise 8](./exercises/eigth.py): Find sum of first n numbers :heavy_check_mark:
+[Exercise 8](./exercises/eight.py): Find sum of first n numbers :heavy_check_mark:
 
 [Exercise 9](./exercises/nine.py) : Find if number is odd or even :heavy_check_mark:
 
