@@ -62,3 +62,5 @@ Exercide 25: Get sum of first n natural numbers
 Exercise 26 : Get the min and max repeated character in the string
 
 Exercise 27: Return a series of first n numbers but has 'Fizz' for multiples of three and 'Buzz' for the multiples of five
+
+[Exercise 28](./exercises/twenty_eigth.py): Create a student class with attributes id, name, day of birth, month of birth and year of birth. It should also contain a method get_age that returns the age of student in years as of today :heavy_check_mark:
