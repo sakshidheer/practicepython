@@ -22,7 +22,7 @@ I have recently started learning python so started this repository with the prac
 
 [Exercise 10](./exercises/ten.py): find Largest number in the array :heavy_check_mark:
 
-Exercise 11: Get number of permutation and computation for the inputted number
+Exercise 11: Get number of permutation and computation for the given number
 
 Exercise 12: Create a program that takes following student information :
 
@@ -39,7 +39,7 @@ Exercise 14: Print a triangle pattern
 
 Exercise 15: Print alphabets A to Z pattern
 
-Exercise 16: Print the pyramid pattern
+[Exercise 16](./exercises/sixteen.py): Print the pyramid pattern :heavy_check_mark:
 
 Exercise 17: Find if the array is Mirror Inverse or not
 
