@@ -35,7 +35,7 @@ Update the above in the file named "students.csv"
 
 [Exercise 13](./exercises/thirteen.py): Print reverse of the string :heavy_check_mark:
 
-Exercise 14: Print a triangle pattern
+[Exercise 14](./exercises/fourteen.py): calculate simple interest:heavy_check_mark:
 
 Exercise 15: Print alphabets A to Z pattern
 
