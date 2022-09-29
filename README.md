@@ -47,7 +47,7 @@ Exercise 17: Find if the array is Mirror Inverse or not
 
 Exercise 19 : Find square root of a number 
 
-Exercise 20: Print prime numbers between two numbers
+[Exercise 20](./exercises/twenty.py): Print prime numbers between two numbers :heavy_check_mark:
 
 [Exercise 21](./exercises/twenty_two.py): Find if the given number is armstrong number or not :heavy_check_mark:
 
