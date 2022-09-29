@@ -41,7 +41,7 @@ Exercise 15: Print alphabets A to Z pattern
 
 [Exercise 16](./exercises/sixteen.py): Print the pyramid pattern :heavy_check_mark:
 
-Exercise 17: Find if the array is Mirror Inverse or not
+[Exercise 17](./exercises/seventeen.py): Find if the array is Mirror Inverse or not :heavy_check_mark:
 
 [Exercise 18](./exercises/eighteen.py): Find if the alphabet is vowel or constant :heavy_check_mark:
 
