@@ -22,7 +22,7 @@ I have recently started learning python so started this repository with the prac
 
 [Exercise 10](./exercises/ten.py): find Largest number in the array :heavy_check_mark:
 
-Exercise 11: Get number of permutation and computation for the given number
+Exercise 11: Get number of permutation and combination possible for the given number
 
 Exercise 12: Create a program that takes following student information :
 
@@ -45,7 +45,7 @@ Exercise 15: Print alphabets A to Z pattern
 
 [Exercise 18](./exercises/eighteen.py): Find if the alphabet is vowel or constant :heavy_check_mark:
 
-Exercise 19 : Find square root of a number 
+[Exercise 19](./exercises/nineteen.py) : Find square root of a number :heavy_check_mark:
 
 [Exercise 20](./exercises/twenty.py): Print prime numbers between two numbers :heavy_check_mark:
 
